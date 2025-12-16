@@ -57,7 +57,7 @@ home.html
 </section>
 
 <footer>
-    © Designed by Allah bakash.
+    © Designed by Rakesh s.
 </footer>
 </body>
 </html>
@@ -101,7 +101,7 @@ menu.html
 </section>
 
 <footer>
-    © Designed by Allah bakash A.
+    © Designed by Rakesh s.
 </footer>
 </body>
 </html>
@@ -134,7 +134,7 @@ admin.html
 </section>
 
 <footer>
-    © Designed by Allah bakash.A
+    © Designed by rakesh s.
 </footer>
 </body>
 </html>
@@ -174,7 +174,7 @@ contact.html
 </section>
 
 <footer>
-    © Designed by Allah bakash A.
+    © Designed by rakesh s.
 </footer>
 
 </body>
